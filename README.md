@@ -6,6 +6,7 @@ Gusare
 ## 字符串
 1. kmp
 2. 字符串哈希
+3. 马拉车Manacher
 
 ## 图论
 1. LCA
