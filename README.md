@@ -25,3 +25,4 @@ Gusare
 1. 快速幂 (qpow.cpp)
 2. 精度输出 (precision.cpp)
 3. 快读 (fread1.cpp && fread2.cpp)
+4. 高精度(gao_jing_du.cpp)
