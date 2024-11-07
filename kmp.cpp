@@ -1,7 +1,10 @@
 #include<bits/stdc++.h>
 #define ll long long
-#define debug(x) cerr<<#x<<'='<<x<<'\n';
 using namespace std;
+
+void kmp(string t,string p);
+void kmp(string s)
+
 void kmp(string t,string p){
     string s=t+'#'+p;
     ll len=s.size();
@@ -16,6 +19,7 @@ void kmp(string t,string p){
         nxt[i]=j;
     }
 }
+
 void kmp(string s){
     ll len=s.size();
     vector<ll> nxt(len,0);
@@ -28,11 +32,4 @@ void kmp(string s){
         }
         nxt[i]=j;
     }
-}
-int main(){
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-
-    kmp("aba","abaaaba");
 }
