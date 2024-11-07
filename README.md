@@ -1,5 +1,6 @@
 # ACM
-Gusare
+by Gusare
+
 ## 数论
 1. gcd (gcd.cpp)
 
@@ -27,3 +28,4 @@ Gusare
 3. 快读 (fread1.cpp && fread2.cpp)
 4. 高精度 (gao_jing_du.cpp)
 5. stringstream用法 (stringstream.cpp)
+6. 高斯消元 (Gauss.cpp)
