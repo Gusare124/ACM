@@ -12,6 +12,8 @@ using namespace std;
 #define lowbit(x) (x&(-x))
 ll tree[N];
 ll upperbound=N-1;
+
+//start不能是0不然会tle!!!!
 void update(ll start,ll add){
     for(ll pos=start;pos<=upperbound;pos+=lowbit(pos)){
         tree[pos]+=add;
