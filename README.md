@@ -29,3 +29,4 @@ by Gusare
 4. 高精度 (gao_jing_du.cpp)
 5. stringstream用法 (stringstream.cpp)
 6. 高斯消元 (Gauss.cpp)
+7. 二维前缀和(2d_pre.cpp)
