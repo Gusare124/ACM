@@ -12,7 +12,11 @@ by Gusare
 ## 图论
 1. LCA (LCA(ST).cpp)
 2. 并查集 (DSU.cpp)
-
+3. spfa (spfa.cpp)
+4. dijkstra (dijkstra.cpp)
+5. floyd (floyd.cpp)
+6. tarjan强连通分量 (scc_tarjan.cpp)
+   
 ## 数据结构
 1. 数状数组 (tree_array.cpp)
 2. 线段树 ()
