@@ -3,6 +3,8 @@ by Gusare
 
 ## 数论
 1. gcd (gcd.cpp)
+2. 组合数递推求法 (combination.cpp)
+3. 模意义下组合数 (combination_mod.cpp)
 
 ## 字符串
 1. kmp (kmp.cpp)
