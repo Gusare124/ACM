@@ -5,6 +5,8 @@ by Gusare
 1. gcd (gcd.cpp)
 2. 组合数递推求法 (combination.cpp)
 3. 模意义下组合数 (combination_mod.cpp)
+4. 埃氏筛 (ai_shi_shai.cpp)
+5. 欧拉筛 (ou_la_shai.cpp)
 
 ## 字符串
 1. kmp (kmp.cpp)
