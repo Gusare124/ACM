@@ -84,7 +84,7 @@ struct num{
             c.s[i+len]=x;
         }
         c.len=a.len+len;
-        while(!c.s[c.len] && len!=1){
+        while(!c.s[c.len] && c.len!=1){
             c.len--;
         }
         return c;
