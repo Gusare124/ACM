@@ -10,7 +10,6 @@ by Gusare
 
 ## 字符串
 1. kmp (kmp.cpp)
-2. 字符串哈希 (string_hash.cpp)
 3. 马拉车Manacher (Manacher.cpp)
 
 ## 图论
@@ -39,3 +38,4 @@ by Gusare
 6. 高斯消元 (Gauss.cpp)
 7. 二维前缀和(2d_pre.cpp)
 8. __int128输出(write_128.cpp)
+9. 哈希表 (hash.cpp)
