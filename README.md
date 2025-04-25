@@ -7,6 +7,7 @@ by Gusare
 3. 模意义下组合数 (combination_mod.cpp)
 4. 埃氏筛 (ai_shi_shai.cpp)
 5. 欧拉筛 (ou_la_shai.cpp)
+6. exgcd (exgcd.cpp)
 
 ## 字符串
 1. kmp (kmp.cpp)
