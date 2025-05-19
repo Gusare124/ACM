@@ -23,7 +23,7 @@ by Gusare
    
 ## 数据结构
 1. 数状数组 (tree_array.cpp)
-2. 线段树 ()
+2. 区间和线段树 (segment_tree_sum.cpp)
 3. st表 (st.cpp)
 
 ## dp
