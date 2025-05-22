@@ -20,6 +20,7 @@ by Gusare
 4. dijkstra (dijkstra.cpp)
 5. floyd (floyd.cpp)
 6. tarjan强连通分量 (scc_tarjan.cpp)
+7. 最大流dinic (dinic.cpp)
    
 ## 数据结构
 1. 数状数组 (tree_array.cpp)
