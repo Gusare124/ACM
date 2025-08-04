@@ -12,6 +12,7 @@ queue<int> q;
 
 /*
   判断图是否有负环:建立超级源点(与所有点相连且边权为0),然后从超级源点出发跑spfa
+  spfa也可以用作找最长路
 */
 
 bool spfa(int n, int s) { //bool判断从s出发能否抵达负环
@@ -23,7 +24,7 @@ bool spfa(int n, int s) { //bool判断从s出发能否抵达负环
     q.pop(), vis[u] = 0;
     for (auto ed : e[u]) {
       int v = ed.v, w = ed.w;
-      if (dis[v] > dis[u] + w) {
+      if (dis[v] > dis[u] + w) { //如果是最长路 dis[v]< dis[u] + w 反着写
         dis[v] = dis[u] + w;
         cnt[v] = cnt[u] + 1;  // 记录最短路经过的边数
         if (cnt[v] >= n) return false;
