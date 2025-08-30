@@ -32,6 +32,10 @@ by Gusare
 1. 01背包 (01.cpp)
 2. 01背包方案数 (01scenarios.cpp)
 
+## 计算几何
+1. 计算几何常用函数 (jisuanjihe.cpp)
+2. andrew求凸包 (andrew.cpp)
+
 ## 其他
 1. 快速幂 (qpow.cpp)
 2. 精度输出 (precision.cpp)
