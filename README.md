@@ -46,3 +46,4 @@ by Gusare
 7. 二维前缀和(2d_pre.cpp)
 8. __int128输出(write_128.cpp)
 9. 哈希表 (hash.cpp)
+10. 求逆元 (inverse_element.cpp)
