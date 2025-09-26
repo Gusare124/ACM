@@ -8,6 +8,7 @@ by Gusare
 4. 埃氏筛 (ai_shi_shai.cpp)
 5. 欧拉筛 (ou_la_shai.cpp)
 6. exgcd (exgcd.cpp)
+7. 求逆元 (inverse_element.cpp)
 
 ## 字符串
 1. kmp (kmp.cpp)
@@ -46,4 +47,3 @@ by Gusare
 7. 二维前缀和(2d_pre.cpp)
 8. __int128输出(write_128.cpp)
 9. 哈希表 (hash.cpp)
-10. 求逆元 (inverse_element.cpp)
